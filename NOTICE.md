@@ -31,7 +31,7 @@
 
 （另有一处同性质的用户预设清理不在本包内，由补丁脚本在运行时处理。）
 
-补丁脚本与用法见独立仓库：https://github.com/Ximmmmmmm/dsh-purge-1.1.71-compat
+补丁脚本与用法见本仓库 [`tools/`](tools/) 目录（`fix-dsh-purge-1.1.71.cjs` 与 `launch-dsh-fixed.bat`），可脱离本镜像单独使用。
 
 ## 使用范围
 
@@ -41,4 +41,4 @@
 
 ## 新增文件
 
-本仓库在镜像之外新增 `NOTICE.md`、`.gitignore`，并在两份 README 顶部各加入一段第三方镜像声明（README 其余内容为上游原文）。这些新增内容按 MIT 许可提供。
+本仓库在镜像之外新增 `NOTICE.md`、`.gitignore`、`tools/`（补丁脚本与其 README），并在两份 README 顶部各加入一段第三方镜像声明（README 其余内容为上游原文）。这些新增内容按 MIT 许可提供。

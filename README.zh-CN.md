@@ -2,6 +2,7 @@
 > 本仓库是 [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) 1.1.71 历史版本的镜像，并附带针对 DeepSeek Harness 0.2.1-rc.5 的兼容性补丁。
 > 原作者：小杨；许可证：MIT（见 [LICENSE](LICENSE)，原文未改动）。本仓库与原作者、DeepSeek 官方均无隶属、授权或背书关系。
 > 按上游 README「署名要求」特此注明来源，详见 [NOTICE.md](NOTICE.md)。
+> 仓库结构：根目录为上游插件镜像，`tools/` 为独立的兼容性补丁脚本与用法说明。
 > 以下为上游 README 原文，未改动。
 
 ---

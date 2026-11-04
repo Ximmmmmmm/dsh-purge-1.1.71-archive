@@ -2,6 +2,7 @@
 > This repo mirrors [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) v1.1.71 and adds compatibility patches for DeepSeek Harness 0.2.1-rc.5.
 > Original author: 小杨. License: MIT (see [LICENSE](LICENSE), unmodified). Not affiliated with, endorsed by, or authorised by the upstream author or DeepSeek.
 > Attribution is given as required by the upstream README. See [NOTICE.md](NOTICE.md).
+> Repo layout: `/` is the upstream plugin mirror; `/tools` holds the standalone compatibility patch scripts and their usage.
 > Everything below is the upstream README, unmodified.
 
 ---
