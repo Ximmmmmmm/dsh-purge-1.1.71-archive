@@ -31,7 +31,7 @@
 
 （另有一处同性质的用户预设清理不在本包内，由补丁脚本在运行时处理。）
 
-补丁脚本与用法见本仓库 [`tools/`](tools/) 目录（`fix-dsh-purge-1.1.71.cjs` 与 `launch-dsh-fixed.bat`），可脱离本镜像单独使用。
+补丁脚本与用法见本仓库 [`tools/`](tools/) 目录（`fix-dsh-purge-1.1.71.cjs` 与 `launch-dsh-fixed.bat`），可脱离本镜像单独使用。也可直接下载 [Releases / v1.1.71-compat](https://github.com/Ximmmmmmm/dsh-purge-1.1.71-archive/releases/tag/v1.1.71-compat) 中已打好补丁的 `dsh-purge-1.1.71-compat.tgz`（含 sha256 与安装说明），装完无需再运行补丁脚本。
 
 ## 使用范围
 

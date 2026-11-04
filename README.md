@@ -3,6 +3,7 @@
 > Original author: 小杨. License: MIT (see [LICENSE](LICENSE), unmodified). Not affiliated with, endorsed by, or authorised by the upstream author or DeepSeek.
 > Attribution is given as required by the upstream README. See [NOTICE.md](NOTICE.md).
 > Repo layout: `/` is the upstream plugin mirror; `/tools` holds the standalone compatibility patch scripts and their usage.
+> Ready-to-install tarball (all patches included): [Releases / v1.1.71-compat](https://github.com/Ximmmmmmm/dsh-purge-1.1.71-archive/releases/tag/v1.1.71-compat).
 > Everything below is the upstream README, unmodified.
 
 ---
