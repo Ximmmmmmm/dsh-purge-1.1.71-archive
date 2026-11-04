@@ -1,0 +1,4 @@
+*.bak
+*.pre-compat-fix.bak
+.DS_Store
+Thumbs.db
